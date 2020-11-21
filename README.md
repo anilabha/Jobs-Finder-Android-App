@@ -5,7 +5,7 @@
  Jobs-Finder App for Android using GitHub Jobs api.
  # api link : https://jobs.github.com/api
  # Features:
-1. View different types Jobs all over World.
+1. View different types software engineering Jobs all over World.
 3. Share Jobs Links with friends.
 4. Apply the jobs through original company link.
  
